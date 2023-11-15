@@ -2,11 +2,11 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: SynFog: A Photo-Realistic Synthetic Dataset for Advancing Real-World Defogging in Autonomous Driving
 authors:
-    A. M. Turing
+    Yiming Xie
 affiliations:
-    King's College, Cambridge
+    Tsinghua University, Beijing
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
