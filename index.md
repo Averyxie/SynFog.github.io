@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: 
-    SynFog A Photo-Realistic Synthetic Dataset for Advancing Real-World Defogging in Autonomous Driving
+    'SynFog: A Photo-Realistic Synthetic Dataset for Advancing Real-World Defogging in Autonomous Driving'
 authors:
     Yiming Xie
 affiliations:
